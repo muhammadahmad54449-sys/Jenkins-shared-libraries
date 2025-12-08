@@ -1,3 +1,3 @@
 def call (){
-  echo "Hello this is my first shared library pipeline"
+  echo "Hello guys now it looks perfectly fine"
 }
